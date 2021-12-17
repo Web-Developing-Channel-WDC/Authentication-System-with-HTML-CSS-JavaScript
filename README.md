@@ -1,0 +1,2 @@
+# Authentication-System-with-HTML-CSS-JavaScript
+Authentication System တစ်ခုကို HTML, CSS, JavaScript သုံးမျိုးထဲနဲ့ ရေးထားတဲ့ Project လေးပါ။ ပုံမှန်ဆို Backend Language နဲ့ Database ပါမှ ရေးရတဲ့ System မျိုး ဖြစ်ပေမဲ့ JavaScript ကို Backend Language အနေနဲ့ ထားပြီး LocalStorage ကို Database အနေနဲ့ထားကာ ရေးပြထားပါတယ်။ Real Project မှာ ဒီပုံစံကို အသုံးပြုလို့ မရပေမဲ့ Validation System တွေ SessionStorage တွေကိုတော့ အသုံးပြုလို့ရပါတယ် ခင်ဗျာ။ Learning Purpose Prototype Project ဖြစ်တဲ့အတွက် Password Bcryption အပိုင်းကတော့ ပါဝင်ခြင်းမရှိပါဘူး ခင်ဗျာ။
